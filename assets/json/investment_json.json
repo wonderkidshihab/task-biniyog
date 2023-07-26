@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Sample Name 1",
+      "image": "https://picsum.photos/id/1/200/300",
+      "description": "This is a sample description 1.",
+      "type": "Sample Type 1",
+      "risk": "A",
+      "profitInPercentage": "10%",
+      "dateOfExpiration": "2023-12-31T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Sample Name 2",
+      "image": "https://picsum.photos/id/2/200/300",
+      "description": "This is a sample description 2.",
+      "type": "Sample Type 2",
+      "risk": "B",
+      "profitInPercentage": "20%",
+      "dateOfExpiration": "2024-01-31T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Sample Name 3",
+      "image": "https://picsum.photos/id/3/200/300",
+      "description": "This is a sample description 3.",
+      "type": "Sample Type 3",
+      "risk": "C",
+      "profitInPercentage": "30%",
+      "dateOfExpiration": "2024-02-28T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Sample Name 4",
+      "image": "https://picsum.photos/id/4/200/300",
+      "description": "This is a sample description 4.",
+      "type": "Sample Type 4",
+      "risk": "D",
+      "profitInPercentage": "40%",
+      "dateOfExpiration": "2024-03-31T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Sample Name 5",
+      "image": "https://picsum.photos/id/5/200/300",
+      "description": "This is a sample description 5.",
+      "type": "Sample Type 5",
+      "risk": "A",
+      "profitInPercentage": "50%",
+      "dateOfExpiration": "2024-04-30T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Sample Name 6",
+      "image": "https://picsum.photos/id/6/200/300",
+      "description": "This is a sample description 6.",
+      "type": "Sample Type 6",
+      "risk": "B",
+      "profitInPercentage": "60%",
+      "dateOfExpiration": "2024-05-31T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Sample Name 7",
+      "image": "https://picsum.photos/id/7/200/300",
+      "description": "This is a sample description 7.",
+      "type": "Sample Type 7",
+      "risk": "C",
+      "profitInPercentage": "70%",
+      "dateOfExpiration": "2024-06-30T00:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Sample Name 8",
+      "image": "https://picsum.photos/id/8/200/300",
+      "description": "This is a sample description 8.",
+      "type": "Sample Type 8",
+      "risk": "D",
+      "profitInPercentage": "80%",
+      "dateOfExpiration": "2024-07-31T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Sample Name 9",
+      "image": "https://picsum.photos/id/9/200/300",
+      "description": "This is a sample description 9.",
+      "type": "Sample Type 9",
+      "risk": "A",
+      "profitInPercentage": "90%",
+      "dateOfExpiration": "2024-08-31T00:00:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Sample Name 10",
+      "image": "https://picsum.photos/id/10/200/300",
+      "description": "This is a sample description 10.",
+      "type": "Sample Type 10",
+      "risk": "B",
+      "profitInPercentage": "100%",
+      "dateOfExpiration": "2024-09-30T00:00:00Z"
+    }
+  ]
+  
